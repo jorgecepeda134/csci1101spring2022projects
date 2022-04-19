@@ -31,6 +31,7 @@ pattern = "**/*.html"
     unformatted = "wbr"
     contentUnformatted = "pre,code,textarea"
     indentInnerHtml = false
+    preserveNewLines = true
     indentHandlebars = false
     endWithNewline = false
     extraLiners = "head, body, /html"
